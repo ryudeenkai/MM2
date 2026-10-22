@@ -1,2 +1,2 @@
 loadstring(game:HttpGet("https://pastefy.app/MeW6K8Ol/raw"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/AstrxyHUB/Astrxy/refs/heads/main/MM2.loader"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AstrxyHUB/Astrxy/refs/heads/main/ASTRXYHUBMM2.txt"))()
